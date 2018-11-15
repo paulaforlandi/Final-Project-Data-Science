@@ -10,9 +10,13 @@ This is a interdisciplinary study that involves physiscians, nurses, research co
 
 # Specific Study Aims:
 We will compare 7 international prospective studies on chronic kidney disease assessing 3 different aspects: 
+
 I. the variability in their baseline characteristics (age, sex, prevalence of diabetes, etc.) 
+
 II. the variability in their rates of outcomes (CKD progression, end-stage renal disease (ESRD),all-cause mortality, and cardiovascular events (CVD)).
+
 III. how the association between comorbidities and outcomes vary across these studies.
+
 Our goal is to evaluate if differences in the distribution of risk factor explain the differences in rates of outcomes observed across these studies.
 
   
